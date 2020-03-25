@@ -3,6 +3,7 @@ def find_element_index(array, value_to_find)
    while count > array.length do
   array.index(find_element_index)
 end
+end
 
 def find_max_value(array)
   value = array.map()
