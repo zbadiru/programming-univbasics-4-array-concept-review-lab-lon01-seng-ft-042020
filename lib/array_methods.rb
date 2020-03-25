@@ -1,6 +1,7 @@
 def find_element_index(array, value_to_find)
    count = 0
-  array.length.time
+  array.length.time do |count|
+    
     
     count += 1
   end
